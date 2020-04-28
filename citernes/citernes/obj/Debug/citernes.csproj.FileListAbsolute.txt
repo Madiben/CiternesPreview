@@ -1,0 +1,10 @@
+C:\Users\Mahdi\source\repos\citernes\citernes\bin\Debug\citernes.exe.config
+C:\Users\Mahdi\source\repos\citernes\citernes\bin\Debug\citernes.exe
+C:\Users\Mahdi\source\repos\citernes\citernes\bin\Debug\citernes.pdb
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.csprojAssemblyReference.cache
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.Form1.resources
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.Properties.Resources.resources
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.csproj.GenerateResource.cache
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.exe
+C:\Users\Mahdi\source\repos\citernes\citernes\obj\Debug\citernes.pdb
